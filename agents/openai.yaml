@@ -1,0 +1,5 @@
+interface:
+  display_name: "Session Recap"
+  short_description: "Recap this session step by step, briefly"
+policy:
+  allow_implicit_invocation: false
